@@ -1,0 +1,26 @@
+# Interval between envoy drops in minutes 
+ChestSpawn: 5
+
+# How many items a chest gets
+ItemsInChest: 4
+
+# The block that falls from the Sky
+FallingBlock: 138
+
+# Locations of the Envoys
+ChestLocations:
+- world 0.0 0.0 0.0
+
+# Items that spawn in chests
+# [Chance out of 100] [Item ID] [Amount] [Enchantment ID] [Enchantment Level]
+ChestItems:
+- 50 1 23
+- 90 2 10
+- 75 2 12
+- 30 3 10
+- 50 4 2
+- 50 5 1
+- 30 5 1
+- 60 6 1
+- 45 7 1
+- 100 272 1 16 1
